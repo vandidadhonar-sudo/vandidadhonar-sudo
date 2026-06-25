@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Ashkan 👋
 
-<!--
-**vandidadhonar-sudo/vandidadhonar-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CEO at Vandidad Group | AIOS Architect**
 
-Here are some ideas to get you started:
+I am pioneering the development of the first comprehensive AI Operating Systems (AIOS) and intelligent multi-agent solutions for the Iranian market. My focus is on architecting specialized AI ecosystems across multiple industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Core Architectures & Projects:**
+*   **Vandidad OS:** Comprehensive AI solutions for Legal and Financial management.
+*   **Vanta AI:** An advanced AI-powered CRM and Sales OS for the real estate market.
+*   **Panah:** An intelligent architecture designed for psychological counseling and support.
+
+**🛠️ Architecting with:** 
+Claude | Gemini | Cursor IDE | GitHub
+
+* 🌍 Based in: Izmir, Turkey
+* 🏢 Company: [Vandidad Group](https://vandidad.xyz)
+* 🧠 Focus: AI Agents, System Architecture, Smart Automation
+* 📫 Contact me: vandidad.honar@gmail.com
